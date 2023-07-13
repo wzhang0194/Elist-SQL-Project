@@ -39,20 +39,16 @@ Sample of query used for sales trends below. More detailed analysis is contained
 Based on these insights, the team would like to make several recommendations across several areas:
 
 * **Product Refunds:**
-    * Analyze the reasons behind the high refund rates and the spike in refunds during specific months, such as May 2020 and March 2021. Identify any recurring issues or patterns causing dissatisfaction among customers. This analysis can help in addressing the root causes and minimizing refund requests.
+    * Identify and Address Root Causes: Analyze the reasons behind the high refund rates and the spike in refunds during specific months, such as May 2020 and March 2021. Identify any recurring issues or patterns causing dissatisfaction among customers. This analysis can help in addressing the root causes and minimizing refund requests.
 
  * **Account Creation Methods:**
      * Optimize User Experience on Desktop and Mobile: Since desktop is the primary account creation method with a higher number of signups, prioritize enhancing the user experience on desktop devices. Ensure that the website is responsive, intuitive, and provides a seamless browsing and signup process for desktop users. Similarly, focus on improving the mobile experience to capitalize on the significant number of signups from mobile users.
             
  * **Operational Effectiveness:**
-     * 
+     * Nurture Customer Engagement and Retention: Recognize the time gap between customer account creation and making a purchase, which averages around two months. Implement strategies to nurture customer engagement during this period to keep them connected with your brand. This can include personalized emails, exclusive offers, relevant content, and targeted promotions to encourage them to make a purchase sooner.
        
 * **Marketing Channels:**
-    * adf
-
-
-
-
+    * Optimize Direct Marketing Strategies: Recognize the significance of the direct marketing channel and capitalize on its effectiveness in driving orders. Implement targeted direct marketing campaigns to attract customers who directly visit the website. Enhance the website's user experience, ensure compelling and informative content, and provide clear calls-to-action to encourage conversions.
 
 
 
