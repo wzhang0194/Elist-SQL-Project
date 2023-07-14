@@ -1,5 +1,5 @@
 # Portfolio Project - Elist Sales Analysis
-Elist is a sample e-commerce company that sells popular electronics to customers around the world. In this portfolio project, I analyzed a sample dataset to investigate trends in revenue, average order value, product popularity, marketing channels, refund rates, and operations to surface insights on overall company performance.
+Elist is a simulated e-commerce company specializing in popular electronics, catering to a global customer base. This data analysis project focuses on a sample dataset, aiming to uncover key trends in revenue, marketing channels, and operational aspects. By conducting this analysis, valuable insights regarding the overall company performance are derived.
 
 I used SQL queries [here](https://github.com/wzhang0194/Elist-SQL-Project/blob/main/Elist_SQL_Queries.sql) to analyze and summarize the insights below, to be delivered to the finance, product, and marketing teams.
 
