@@ -10,7 +10,7 @@ I used SQL queries [here](https://github.com/wzhang0194/Elist-SQL-Project/blob/m
 **North America Monthly Sales Trends (all years)** 
 * Between 2019 and 2022, Elist sold an average of 30 Macbooks per month to North American customers , resulting in an average monthly sales of $47.8K. The Macbooks had an average order price of $1603.
 
-**Refund Trends in 2020 and 2021 :**
+**Refund Trends in 2020 and 2021:**
 * In 2020, the monthly refund rates for orders varied between 2% and 3%. The month with the highest number of refunds was May 2020, with a total of 92 refunds and a refund percentage of 3%. 
 * In 2021, the number of refunds for Apple products ranged from 7 to 30 per month, with the highest number of refunds occurring in March. Furthermore, the average number of returns for Apple products during the first six months of 2021 was 24, whereas during the last six months, it significantly dropped to an average of just 8 returns.
 
